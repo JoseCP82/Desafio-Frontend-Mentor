@@ -1,0 +1,163 @@
+* {
+    border: 0px;
+    margin: 0%;
+}
+
+body {
+    margin: auto;
+    width: 1440px;
+    height: 900px;
+    background-image: url(../img/background-home-desktop.jpg);
+    background-size: 1400px 900px cover;
+    background-repeat: no-repeat;
+    background-color: #0B0D17;
+    background-position: center top;
+}
+
+.cabecera {
+    width: 1385px;
+    height: 96px;
+    margin-top: 40px;
+    margin-left: 55px;  
+}
+
+.logo {
+    width: 48px;
+    height: 48px;
+    margin-top: 25px;
+    background-color: #0B0D17;
+}
+
+#barra {
+    width: 473px;
+    height: 1px;
+    margin-top: -47px;
+    margin-left: 100px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+
+#barrita {
+    position: absolute;
+    width: 90px;
+    height: 3px;
+    background-color: #FFFFFF;
+    margin-left: 650px;
+    margin-top: -3px;
+}
+
+.rectangulo_enlaces {
+    position: relative;
+    width: 840px;
+    height: 96px;
+    margin-top: -78px;
+    margin-left: 545px;
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(81.5485px);
+}
+
+.enlaces {
+    position: absolute;
+    width: 700px;
+    height: 19px;
+    margin-top: -56px;
+    margin-left: 650px;
+}
+
+a {
+    height: 19px;
+    color: #FFFFFF;
+    font-family: Barlow Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 2.7px;
+    text-decoration: none;
+}
+
+span {
+    width: 15px;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+#a0 {
+    width: 70px;
+}
+
+#a1 {
+    width: 130px;
+    margin-left: 48px;
+}
+
+#a2 {
+    width: 71px;
+    margin-left: 48px;
+}
+
+#a3 {
+    width: 127px;
+    margin-left: 48px;
+}
+
+.contenido {
+    width: 450px;
+    height: 400px;
+    margin-left: 165px;
+    margin-top: 287px;
+}
+
+.titulo {
+    width: 400px;
+    height: 34px;
+    font-family: Barlow Condensed;
+    font-size: 28px;
+    color: #D0D6F9;
+}
+
+.space {
+    width: 445px;
+    height: 172;
+    margin-top: 20px;
+    font-family: Bellefair;
+    font-size: 150px;
+    color: #FFFFFF;
+}
+
+.parrafo {
+    width: 444px;
+    height: 128px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    color: #D0D6F9;
+    margin-top: 20px;
+}
+
+.explore {
+    width: 274px;
+    height: 274px;
+    margin-left: 1000px;
+    margin-top: -320px;
+    background-color:#FFFFFF;
+    border-radius: 50%;
+    border: 1px solid #FFFFFF;
+}
+
+#texto_explore {
+    width: 148px;
+    height: 37px;
+    margin-top: 119px;
+    margin-left: 62px;
+    font-family: Bellefair;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    letter-spacing: 2px;
+    color: #0B0D17;
+}
